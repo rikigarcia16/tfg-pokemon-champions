@@ -1,0 +1,91 @@
+{
+ "format": "gen9championsbssregmc",
+ "detall": [
+  {
+   "rival": "Aleatori",
+   "equip_agent": "equip_a",
+   "equip_rival": "equip_b",
+   "combats": 50,
+   "victories": 50,
+   "errors_agent": 0,
+   "segons": 3.5
+  },
+  {
+   "rival": "Aleatori",
+   "equip_agent": "equip_b",
+   "equip_rival": "equip_a",
+   "combats": 50,
+   "victories": 49,
+   "errors_agent": 0,
+   "segons": 3.4
+  },
+  {
+   "rival": "MaxPotencia",
+   "equip_agent": "equip_a",
+   "equip_rival": "equip_b",
+   "combats": 50,
+   "victories": 45,
+   "errors_agent": 0,
+   "segons": 4.1
+  },
+  {
+   "rival": "MaxPotencia",
+   "equip_agent": "equip_b",
+   "equip_rival": "equip_a",
+   "combats": 50,
+   "victories": 44,
+   "errors_agent": 0,
+   "segons": 4.0
+  },
+  {
+   "rival": "HeuristicPokeEnv",
+   "equip_agent": "equip_a",
+   "equip_rival": "equip_b",
+   "combats": 50,
+   "victories": 34,
+   "errors_agent": 0,
+   "segons": 4.2
+  },
+  {
+   "rival": "HeuristicPokeEnv",
+   "equip_agent": "equip_b",
+   "equip_rival": "equip_a",
+   "combats": 50,
+   "victories": 30,
+   "errors_agent": 0,
+   "segons": 3.9
+  }
+ ],
+ "resum": [
+  {
+   "rival": "Aleatori",
+   "victories": 99,
+   "combats": 100,
+   "taxa": 0.99,
+   "ic95": [
+    0.9455124752390653,
+    0.9982326134344526
+   ]
+  },
+  {
+   "rival": "MaxPotencia",
+   "victories": 89,
+   "combats": 100,
+   "taxa": 0.89,
+   "ic95": [
+    0.8136853697209698,
+    0.9374586804477487
+   ]
+  },
+  {
+   "rival": "HeuristicPokeEnv",
+   "victories": 64,
+   "combats": 100,
+   "taxa": 0.64,
+   "ic95": [
+    0.542352199811621,
+    0.7272892540950986
+   ]
+  }
+ ]
+}

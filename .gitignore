@@ -1,0 +1,15 @@
+# Codi d'altres i eines descarregades
+showdown/
+client/
+tools/node-*/
+.venv/
+
+# Generat pels combats
+replays/
+replays_demo/
+traces/
+aprenentatge/dades/
+
+# Python
+__pycache__/
+*.pyc

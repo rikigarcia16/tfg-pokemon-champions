@@ -67,3 +67,9 @@ navegador) i la traça de cada decisió a `traces/`.
 - Horitzó d'un torn; no hi ha cerca ni simulació.
 - La Megaevolució s'activa sempre que es pot.
 - Habilitats i objectes només parcialment modelats.
+
+## Llicència
+
+Codi publicat amb llicència [MIT](LICENSE). Pokémon Showdown i poke-env, en què es basa,
+també són MIT. Pokémon és una marca de Nintendo, Creatures Inc. i GAME FREAK; aquest
+repositori no inclou cap material seu.
